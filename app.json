@@ -1,0 +1,14 @@
+ {
+     "expo": {
+         "name": "Whack-a-sqare",
+         "version": "1.0.0",
+         "ios": {
+             "bundleIdentifier": "com.jjjsemdmitrii.whackasqare",
+             "buildNumber": "1.0.0"
+         },
+         "android": {
+             "package": "com.jjjsemdmitrii.whackasqare",
+             "versionCode": 1
+         }
+     }
+ }
